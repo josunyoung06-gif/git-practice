@@ -1,0 +1,2 @@
+Git Practice - Week 7
+Learning Git add, commit, and puch commands.
